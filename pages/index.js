@@ -25,6 +25,9 @@ export default function Home() {
       <Link href="/dashboard-swr" passHref>
         <p>Dashboard with SWR that is React Hooks for Data Fetching</p>
       </Link>
+      <Link href="/events" passHref>
+        <p>Event list : pre rendering with client side data fetching</p>
+      </Link>
     </div>
   );
 }

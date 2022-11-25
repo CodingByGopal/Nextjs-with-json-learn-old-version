@@ -1,4 +1,76 @@
 {
+  "events": [
+    {
+      "1d": 1,
+      "title": "Event 1",
+      "description": "Description 1",
+      "category": "art",
+      "date": "april 25"
+    },
+    {
+      "1d": 2,
+      "title": "Event 2",
+      "description": "Description 2",
+      "category": "carft",
+      "date": "may 25"
+    },
+    {
+      "1d": 3,
+      "title": "Event 3",
+      "description": "Description 3",
+      "category": "technology",
+      "date": "june 25"
+    },
+    {
+      "1d": 4,
+      "title": "Event 4",
+      "description": "Description 4",
+      "category": "sports",
+      "date": "july 25"
+    },
+    {
+      "1d": 5,
+      "title": "Event 5",
+      "description": "Description 5",
+      "category": "science",
+      "date": "August 25"
+    },
+    {
+      "1d": 6,
+      "title": "Event 6",
+      "description": "Description 6",
+      "category": "art",
+      "date": "sepetember 25"
+    },
+    {
+      "1d": 7,
+      "title": "Event 7",
+      "description": "Description 7",
+      "category": "sports",
+      "date": "november 25"
+    },
+    {
+      "1d": 8,
+      "title": "Event 8",
+      "description": "Description 8",
+      "category": "technology",
+      "date": "december 25"
+    },
+    {
+      "1d": 90,
+      "title": "Event 90",
+      "description": "Description 90",
+      "category": "craft",
+      "date": "january 25"
+    },
+    {
+      "1d": 10,
+      "title": "Event 10",
+      "description": "Description 10",
+      "category": "art",
+      "date": "march 25"
+    }
+  ],
   "dashboard": {
     "posts": 5,
     "likes": 100,
