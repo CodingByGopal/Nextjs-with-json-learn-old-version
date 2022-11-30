@@ -1,6 +1,6 @@
 # Next.js — Learning Project
 
-This repository is used for learning basics of next.js with old methods.
+This repository is used for learning basics of next.js with old methods. It inclues basic nevigation thru routes, SSR, ISR, SSG with old methods before version 13 of next js. SWR hook has been used in some places for data fetching.
 
 
 ## Tech Stack
